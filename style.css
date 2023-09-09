@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.motivation-img{
+    border: 50px solid white ;
+    width: 100%;
+}
